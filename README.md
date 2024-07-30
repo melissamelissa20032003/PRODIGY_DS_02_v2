@@ -30,5 +30,10 @@ Potential issues:
 - months might be more useful if we converted it to the same units as age.</br>
 
 
-first I applowded the data frame then I showed few rows of it I missed around with some pandas function like isna(), shap , dtypes() ans so on then I converted the yes or no of the column card into 0 and 1 using the function map 
+first I aplaoded the data set and creat a panda data frame, then I showed few rows of it, I missed around with some pandas function like isna(), shap, describe(), dtypes() ans so on then I converted the yes or no of the column card into 0 and 1 using the function map 
 
+</br>
+</br>
+</br>
+
+- The binary value columns do need to be converted to True/False.
