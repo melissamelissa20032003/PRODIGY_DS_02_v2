@@ -25,6 +25,6 @@ A data model is a method of organizing data and relationships between values in 
 </br>
 Potential issues:
 
--We'll want to convert income into the same units as expenditure.
--Both dependents and age are flagged as problematic so we should take special note of those columns.
--months might be more useful if we converted it to the same units as age.
+- We'll want to convert income into the same units as expenditure.</br>
+- Both dependents and age are flagged as problematic so we should take special note of those columns.</br>
+- months might be more useful if we converted it to the same units as age.</br>
