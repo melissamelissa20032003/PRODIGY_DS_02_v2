@@ -28,3 +28,7 @@ Potential issues:
 - We'll want to convert income into the same units as expenditure.</br>
 - Both dependents and age are flagged as problematic so we should take special note of those columns.</br>
 - months might be more useful if we converted it to the same units as age.</br>
+
+
+first I applowded the data frame then I showed few rows of it I missed around with some pandas function like isna(), shap , dtypes() ans so on then I converted the yes or no of the column card into 0 and 1 using the function map 
+
