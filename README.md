@@ -36,4 +36,8 @@ first I aplaoded the data set and creat a panda data frame, then I showed few ro
 </br>
 </br>
 
-- The binary value columns do need to be converted to True/False.
+- The binary value columns do need to be converted to True/False.</br>
+- 50% of the population falls within a 15 year age range. I would have expected a random sample of credit card holders to be more uniformly distributed across the adult age range. If possible, it would be helpful to understand the original sampling process.</br>
+- majorcards appears to be a boolean rather than a count, contrary to the manual.</br>
+- The maximum value for Active is suprisingly high, but theoretically possible. A domain expert might be able to shed light on this.</br>
+- The share column is supposed to equal the ratio of monthly credit card expenditure to yearly income. Given that the minimum expenditure is zero and the minimum share is not, there's either an error in the manual or with the calculation of share.</br>
