@@ -1,4 +1,4 @@
-# PRODIGY_DS_02
+# PRODIGY_DS_02_V2
 Exploratory Data Analysis </br>
 I usde a data set from Kaggle AER_credit_card_data.csv </br>
 </br>
